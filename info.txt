@@ -1,0 +1,7 @@
+@babel/core - Babel Library/package
+@babel/preset-env - allows us to use modern js (ES6+). Covers modern js to old js
+@babel/preset-react - allows us to use modern jsx. Coverts modern jsx to old js
+babel-loader - connects babel to webpack
+
+webpack - bundles our code.
+
